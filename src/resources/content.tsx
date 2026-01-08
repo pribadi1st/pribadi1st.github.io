@@ -5,11 +5,11 @@ const person: Person = {
   firstName: "Pribadi Ridwan",
   lastName: "Mulyono",
   name: `Pribadi Ridwan Mulyono`,
-  role: "Software Engineer",
+  role: "Senior Software Engineer",
   avatar: "/images/profile.jpeg",
   email: "pribadiridwanmulyono@gmail.com",
-  location: "Europe/Berlin",
-  languages: ["Bahasa", "English", "German"],
+  location: "Asia/Jakarta",
+  languages: ["Bahasa Indonesia", "English", "German"],
 };
 
 const newsletter: Newsletter = {

@@ -1,10 +1,10 @@
-# Magic Portfolio
+# Pribadi Ridwan Mulyono - Portfolio
 
-Magic Portfolio is a simple, clean, beginner-friendly portfolio template. It supports an MDX-based content system for projects and blog posts, an about / CV page and a gallery.
+Welcome to my professional portfolio website, built with Next.js and Once UI. This site showcases my work as a Senior Software Engineer, including my projects, work experience, and blog posts.
 
-View the demo [here](https://demo.magic-portfolio.com).
+Visit my portfolio at: [https://pribadiridwan.vercel.app](https://pribadiridwan.vercel.app)
 
-![Magic Portfolio](public/images/og/home.jpg)
+![Pribadi Ridwan Mulyono - Senior Software Engineer](public/images/og/home.jpg)
 
 ## Getting started
 
@@ -67,6 +67,15 @@ Docs available at: [docs.once-ui.com](https://docs.once-ui.com/docs/magic-portfo
 ### Localization
 - A localized, earlier version of Magic Portfolio is available with the next-intl library
 - To use localization, switch to the 'i18n' branch
+
+## About Me
+
+I'm Pribadi Ridwan Mulyono, a Senior Software Engineer with expertise in full-stack development, cloud infrastructure, and team leadership. My work focuses on creating scalable, efficient, and user-friendly applications.
+
+Connect with me:
+- [GitHub](https://github.com/pribadi1st)
+- [LinkedIn](https://www.linkedin.com/in/pribadi1st/)
+- [Email](mailto:pribadiridwanmulyono@gmail.com)
 
 ## Creators
 
