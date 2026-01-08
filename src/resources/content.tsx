@@ -8,7 +8,7 @@ const person: Person = {
   role: "Senior Software Engineer",
   avatar: "/images/profile.jpeg",
   email: "pribadiridwanmulyono@gmail.com",
-  location: "Asia/Jakarta",
+  location: "Europe/Berlin",
   languages: ["Bahasa Indonesia", "English", "German"],
 };
 
