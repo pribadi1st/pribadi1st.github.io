@@ -203,9 +203,11 @@ const about: About = {
         name: "IU International University of Applied Sciences, Bad Honnef, Germany",
         description: (
           <>
-            Master of Science in Big Data Management[cite: 37, 39].
-            Achieved a GPA of 1.7[cite: 40].
-            Thesis: Sentiment Analysis of Public Posts based on Twitter Trending using Natural Language Processing[cite: 41].
+            Master of Science in Big Data Management.
+            <br />
+            Achieved a GPA of 1.7.
+            <br />
+            Thesis: Sentiment Analysis of Public Posts based on Twitter Trending using Natural Language Processing.
           </>
         ),
       },
@@ -213,9 +215,11 @@ const about: About = {
         name: "Bina Nusantara University, Jakarta, Indonesia",
         description: (
           <>
-            Bachelor of Computer Science[cite: 42, 44].
-            Graduated with a GPA of 3.48/4.00[cite: 43, 45].
-            Thesis: System design for recipe/bill management using OCR technology on mobile applications[cite: 46].
+            Bachelor of Computer Science.
+            <br />
+            Graduated with a GPA of 3.48/4.00.
+            <br />
+            Thesis: System design for recipe/bill management using OCR technology on mobile applications.
           </>
         ),
       },
